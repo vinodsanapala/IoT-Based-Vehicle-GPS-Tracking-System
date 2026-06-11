@@ -114,7 +114,7 @@ IoT-Vehicle-GPS-Tracker/
 │   └── project_report.pdf
 │
 ├── screenshots/
-│   └── sms_output.jpg
+│   └── Google_Map_link.jepg
 │
 ├── README.md
 └── LICENSE
