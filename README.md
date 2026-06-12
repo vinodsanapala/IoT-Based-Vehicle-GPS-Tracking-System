@@ -255,7 +255,6 @@ Feel free to use, modify, and distribute this project for educational and commer
 ECE Undergraduate
 Embedded Systems | IoT | RF Engineering | Antenna Design
 
-📧 GitHub: *Add your GitHub profile link here*
 
 ---
 
